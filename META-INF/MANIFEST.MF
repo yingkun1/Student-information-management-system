@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ mysql-connector-java-5.1.44-bin.jar
+Class-Path: .
+Rsrc-Main-Class: view.loginFrm
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
